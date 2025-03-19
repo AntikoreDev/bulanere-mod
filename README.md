@@ -1,4 +1,4 @@
-# Bulanere (Balatro Localization Mod)
+# Bulanere (Balatro Locale)
 Balatro is a cool game, so I made a localization to my own conlang cuz funny.
 This is meant to work with [Steamodded](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-0312b)
 
